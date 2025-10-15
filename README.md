@@ -43,8 +43,8 @@ We care about impact, not just interfaces.
 
 ### 🤝 Let’s Collaborate
 We’re always open to partnerships, collaborations, and new challenges.  
-📫 **Reach us at:** [hello@calvertsdigital.in](mailto:hello@calvertsdigital.in)  
-🌐 **Website:** [calvertsdigital.in](https://calvertsdigital.in) *(coming soon)*
+📫 **Reach us at:** [suprtaimdhara0@gmail.com](mailto:suprtaimdhara0@gmail.com) or [lestercalvert377@gmail.com](mailto:lestercalvert377@gmail.com)  
+🌐 **Website:** [calvertsdigital.com](https://www.calvertsdigital.com/)
 
 ---
 
