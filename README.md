@@ -1,6 +1,7 @@
 # 🏢 Calverts Digital Technologies
 
-> _Engineering ideas into intelligent, scalable digital systems._
+> Engineering ideas into intelligent, scalable digital systems.
+> **You think it, we build it.**
 
 ---
 
@@ -22,11 +23,13 @@ We believe in **clean architecture**, **reliable code**, and **designs that work
 ---
 
 ### 🧠 Tech Stack
-> We build what the future demands.
+> We build what the project truly needs.
 
 | Frontend | Backend | Cloud / Infra | Tools |
 |-----------|----------|----------------|--------|
-| Flutter, React, Next.js | Node.js, Kotlin, Firebase | GCP, Vercel, Twilio, Firestore | GitHub Actions, Figma, Notion |
+| Flutter, React, React Native, Kotlin, Next.js, Vue, HTML/CSS | Node.js, Kotlin, Python, Go, Firebase | GCP, AWS, Vercel, Twilio, Firestore, Firebase | GitHub Actions, Docker, Figma, Grafana, Prometheus |
+
+We stay **tech-agnostic** — choosing the right tools, not the trendy ones.
 
 ---
 
